@@ -1,0 +1,7 @@
+C:\Users\Abdullah\source\repos\HW_3_MSP\bin\Debug\HW_3_MSP.exe.config
+C:\Users\Abdullah\source\repos\HW_3_MSP\bin\Debug\HW_3_MSP.exe
+C:\Users\Abdullah\source\repos\HW_3_MSP\bin\Debug\HW_3_MSP.pdb
+C:\Users\Abdullah\source\repos\HW_3_MSP\obj\Debug\HW_3_MSP.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\HW_3_MSP\obj\Debug\HW_3_MSP.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\HW_3_MSP\obj\Debug\HW_3_MSP.exe
+C:\Users\Abdullah\source\repos\HW_3_MSP\obj\Debug\HW_3_MSP.pdb
